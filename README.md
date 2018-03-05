@@ -6,3 +6,6 @@ I'm trying to modify and commit stuff from my editor
 
 ## from linux
 I'm committing from vs code in ubuntu
+
+# trying to pull changes
+jeez this should work (and it did yay)
