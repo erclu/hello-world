@@ -1,1 +1,0 @@
-__what happens if i delete a file present in 2 branches from a branch and then merge?__
